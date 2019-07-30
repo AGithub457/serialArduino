@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serialArduino.iml" filepath="$PROJECT_DIR$/.idea/modules/serialArduino.iml" group="serialArduino" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serialArduino_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serialArduino_main.iml" group="serialArduino" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serialArduino_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serialArduino_test.iml" group="serialArduino" />
+    </modules>
+  </component>
+</project>
